@@ -25,7 +25,7 @@ Código fonte:
 3.b. para a classe principal:
 3.b.1. há override dos métodos na forma tradicional.
 3.b.2. chamadas para o método default.
-3.b.3. são duas maneiras de chamar os métodos da interface: com e sem Dynamic Method Lookup (pode ocasaionar overhead).
+3.b.3. são duas maneiras de chamar os métodos da interface: com e sem Dynamic Method Lookup (pode ocasionar overhead).
 3.b.4. Dynamic Method Lookup ocorre quando o Java resolve em tempo de execução qual método executar (não há uma referência direta ao método usado pelo código).
 4. Possibilidades do pacote interfaceTipo2:
 4.a. há uma interface filha e uma interface mãe:
