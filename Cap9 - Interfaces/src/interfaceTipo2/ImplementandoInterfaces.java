@@ -3,7 +3,7 @@
  * 
  * Como implementar uma interface que herda de outra e uma interface aninhada usando uma classe abstrata
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package interfaceTipo2;
