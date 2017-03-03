@@ -3,7 +3,7 @@
  * 
  * Como lançar exceções (throw e throws)
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package tratamentoExcecoes3;

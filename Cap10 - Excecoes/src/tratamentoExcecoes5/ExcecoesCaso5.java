@@ -3,7 +3,7 @@
  * 
  * Como criar exceções encadeadas
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package tratamentoExcecoes5;

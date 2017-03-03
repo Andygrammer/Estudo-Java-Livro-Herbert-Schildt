@@ -3,7 +3,7 @@
  * 
  * Revisando try aninhado com exemplo de multi-catch
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package tratamentoExcecoes2;
