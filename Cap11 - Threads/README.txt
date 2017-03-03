@@ -33,7 +33,7 @@ Código fonte:
 //////////////////////////////////////
 Código fonte criado por André Marinho.
 
-https://fimdoloop.wordpress.com/
+http://ticomcc.blogspot.com.br
 
 //////////////////////////////////////
 Fim do arquivo.

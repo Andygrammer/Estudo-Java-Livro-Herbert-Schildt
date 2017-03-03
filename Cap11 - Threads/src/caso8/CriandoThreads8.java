@@ -4,7 +4,7 @@
  * Utilizando os métodos de comunicação entre threads com uma variável booleana de controle (threadFlag) e enum de estado (método getState())
  * Observação: notar a diferença da saída de cada execução
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso8;

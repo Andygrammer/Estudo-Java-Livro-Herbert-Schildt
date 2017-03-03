@@ -4,7 +4,7 @@
  * Utilizando os métodos de comunicação entre threads
  * wait(), notify() e notifyAll()
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso6;

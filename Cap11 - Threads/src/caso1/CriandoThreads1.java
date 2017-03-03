@@ -3,7 +3,7 @@
  * 
  * Criando thread estendendo a classe Thread
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso1;

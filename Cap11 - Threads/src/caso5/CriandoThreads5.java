@@ -4,7 +4,7 @@
  * Criando caso de threads que apontam para um método que não é synchronized
  * Usa-se um bloco synchronized para tornar o método synchronized sem alterar a sua estrutura
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso5;

@@ -3,7 +3,7 @@
  * 
  * Criando caso de threads com método synchronized. O método imprime frases célebres
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso4;

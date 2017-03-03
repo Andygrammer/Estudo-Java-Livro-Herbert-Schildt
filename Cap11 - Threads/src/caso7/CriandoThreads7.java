@@ -3,7 +3,7 @@
  * 
  * Um exemplo de deadlock
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso7;

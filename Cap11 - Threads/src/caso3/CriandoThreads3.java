@@ -4,7 +4,7 @@
  * Criando caso em que duas threads imprimem mensagem de forma não sincronizada
  * Observação: a thread mãe deve terminar depois da thread filha
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package caso3;
