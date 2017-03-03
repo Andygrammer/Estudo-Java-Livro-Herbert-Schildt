@@ -3,7 +3,7 @@
  * 
  * Como implementar uma interface com métodos estáticos (novidadade do Java 8)
  * 
- * Por André M. (http://ticomcc.blogspot.com.br)
+ * Por André M. (https://fimdoloop.wordpress.com/)
  */
 
 package interfaceTipo3;

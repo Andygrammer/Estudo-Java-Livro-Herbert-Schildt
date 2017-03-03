@@ -52,7 +52,7 @@ Código fonte:
 //////////////////////////////////////
 Código fonte criado por André Marinho.
 
-http://ticomcc.blogspot.com.br
+https://fimdoloop.wordpress.com/
 
 //////////////////////////////////////
 Fim do arquivo.
