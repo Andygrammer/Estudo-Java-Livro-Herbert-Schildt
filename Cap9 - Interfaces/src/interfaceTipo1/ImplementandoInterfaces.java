@@ -3,7 +3,7 @@
  * 
  * Como implementar uma interface simples com e sem Dynamic Method Lookup 
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package interfaceTipo1;
