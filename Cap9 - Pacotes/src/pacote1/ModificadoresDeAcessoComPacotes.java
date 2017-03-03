@@ -3,7 +3,7 @@
  * 
  * Como é a abrangência dos Modificadores de Acesso (Access Modifiers) ao se utilizar pacotes
  * 
- * Por André M. (https://fimdoloop.wordpress.com/)
+ * Por André M. (http://ticomcc.blogspot.com.br)
  */
 
 package pacote1;
